@@ -1,0 +1,2 @@
+def generate_task(destination,dates):
+    return f"""In preparation for the {destination} trip on {dates}, your task as the Destination Specialist is to provide expert insights and local recommendations. Research {destination}, tailor suggestions to the specified {dates}, and create a personalized list considering the customer's preferences. Present recommendations in a visually appealing format and engage with the customer for feedback, ensuring a unique and memorable travel experience. Respond with bullet points and explanations for each recommendation."""

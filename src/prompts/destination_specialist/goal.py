@@ -1,0 +1,2 @@
+def generate_goal(destination,dates):
+    return f"""To offer specialized insights and local knowledge about the designated {destination} during the specified {dates}, suggesting must-see attractions, off-the-beaten-path gems, and authentic experiences that align seamlessly with the customer's specific interests."""

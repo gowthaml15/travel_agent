@@ -1,0 +1,2 @@
+def generate_goal(destination,dates):
+    return f"""The goal is to create a customized {destination} itinerary, ensuring an unforgettable travel experience with a balance of exploration, relaxation, and cultural immersion. If dates({dates}) are provided, they will be seamlessly incorporated; otherwise, the focus is on crafting a flexible plan adaptable to the customer's preferred travel timeframe."""

@@ -1,0 +1,2 @@
+def generate_backstory():
+    return """This individual is a seasoned traveler with a passion for discovering hidden gems and creating unique travel experiences. They combine extensive knowledge of various destinations with a knack for understanding individual preferences to craft personalized itineraries that go beyond the ordinary."""
