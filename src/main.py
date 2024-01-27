@@ -4,7 +4,7 @@ from langchain_community.tools import DuckDuckGoSearchRun
 from prompts.trip_planner import goal as trip_planner_goal, backstory as trip_planner_backstory, task as trip_planner_task
 from prompts.destination_specialist import goal as destination_specialist_goal, backstory as destination_specialist_backstory, task as destination_specialist_task
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 destination = "goa"
 dates = "25/01/2023 to 29/01/2023"
